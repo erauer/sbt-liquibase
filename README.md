@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/erauer/sbt-liquibase.png?branch=travis)](https://travis-ci.org//erauer/sbt-liquibase.png?branch=travis)
+
 Liquibase plugin for sbt 0.11 / 0.12
 ====================================
 
